@@ -1,4 +1,13 @@
-### Hi there 👋
+
+<div>
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wkta&show_icons=true&count_private=true&theme=vue&cache_seconds=1800&include_all_commits=true" width="50%"/>
+  </a>
+</div>
+
+### About me
+ - 👯 I’m looking to collaborate on the `kengi` engine ; the [Kata.games](https://kata.games) platform
+ - 📫 How to reach me: thomas at gaudia-tech.com
 
 <!--
 **wkta/wkta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
