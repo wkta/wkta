@@ -6,9 +6,10 @@
 </div>
 
 ### About me
-- 🔭 I’m currently working on the [Kata.games](https://linktr.ee/katagames) system
- - 👯 I wish to collaborate for improving the `kengi` game engine, it is open-source! See [here](https://github.com/gaudiatech/kengi)
- - 📫 How to reach me: tom [at] kata.games
+ - 📫 Contact: thomas.iw [aT] kata.games
+ - 🔭 Currently working on the [Kata.games](https://linktr.ee/katagames) system
+ - 👯 Wants to collaborate for improving the `kengi` game engine (Its open-source!), see [here](https://github.com/gaudiatech/kengi)
+
 
 <!--
 **wkta/wkta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
