@@ -8,8 +8,7 @@
 ### About me
  - 📫 Contact: thomas.iw [aT] kata.games
  - 🔭 Currently working on the [Kata.games](https://linktr.ee/katagames) system
- - 👯 Wants to collaborate for improving the `kengi` game engine (Its open-source!), see [here](https://github.com/gaudiatech/kengi)
-
+ - 👯 Wanna collaborate on completing the `pyved-engine` (Open-source game engine!), see [here](https://github.com/gaudiatech/pyved-engine)
 
 <!--
 **wkta/wkta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
