@@ -1,9 +1,7 @@
 
-<div>
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wkta&show_icons=true&count_private=true&theme=vue&cache_seconds=1800&include_all_commits=true" width="50%"/>
-  </a>
-</div>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=vue&preferLogin=false">
+<img alt="wkta's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/wkta?cardType=level&theme=vue&preferLogin=false" />
+</a>
 
 ### About me
  - 📫 Contact: thomas.iw [aT] kata.games
