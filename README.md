@@ -1,8 +1,10 @@
 
 ### About me
- - 🔭 Founder of the the katagames.io platform
- - 👯 Wanna collaborate on completing an innovative game-engine, see [here](https://github.com/gaudiatech/pyved-engine)
- - 📫 Contact: thomas [aT] katagames.io
+ - 🔭 highly experienced (8+ years) entrepreneur
+ - 🇫🇷 citizenship  
+ - ⚡ interested in AI + quant trading
+ - 🌱 I sometimes work on an innovative game engine: [here](https://github.com/pyved-solution/pyved-engine)
+ - 📫 best way to reach me: thomas [at sign] katagames.io
 
 <!--
 **wkta/wkta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
